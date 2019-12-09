@@ -1,0 +1,28 @@
+table membre
+id
+un pseudonyme ;
+
+un mot de passe ;
+
+droit utilisateur de type boolen ou entier
+
+
+
+table chapitre
+id 
+titre
+contenu
+
+
+
+table commentaire 
+id
+id auteur 
+id chapitre
+
+signalement booleen ou entier 
+commentaire 
+
+
+
+
